@@ -109,10 +109,7 @@ const skillPage = () => {
         <Heading>My Technical Experience/Skills.</Heading>
         <FramerWrapper y={0} x={200}>
           <p className="font-poppins text-xl w-full text-primary max-sm:text-lg">
-            Currently i am a fresher and i have a solid understand of HTML5,
-            CSS3, JS, TS and React, including responsive design principles. I
-            specialize in building web applications and sites using Javascript,
-            Typescript, React, Nextjs & Node.
+          As a frontend-focused full-stack developer, I specialize in building scalable and high-performance web applications using JavaScript, TypeScript, React, Next.js, and Node.js. With a strong foundation in HTML5, CSS3, and responsive design principles, I develop modern, user-centric interfaces that deliver seamless experiences across devices. My expertise extends to crafting efficient and maintainable code, leveraging best practices in component-based architecture and state management.
           </p>
         </FramerWrapper>
         <FramerWrapper y={100} delay={0.3} className="block w-full">
